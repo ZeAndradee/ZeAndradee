@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
 <h3 align="center">A passionate Mobile developer from Brazil</h3>
 
+[![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22512%26project%3D%26in%3D0)](https://codetime.dev)
 - 🔭 I’m currently working on [Android Development](https://github.com/ZeAndradee/Login-Screen)
 
 - 🌱 I’m currently learning **Flutter,Front-End with Svelte,Dart, C, Python**
