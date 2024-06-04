@@ -4,13 +4,13 @@
 [![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22512%26project%3D%26in%3D0)](https://codetime.dev)
 - 🔭 I’m currently working on [Android Development](https://github.com/ZeAndradee/Login-Screen)
 
-- 🌱 I’m currently learning **Flutter,Front-End with Svelte,Dart, C, Python**
+- 🌱 I’m currently learning **Kotlin, Front-End with React, C, Python**
 
 - 👯 I’m looking to collaborate on **any mobile project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ZeAndradee](https://github.com/ZeAndradee)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Kotlin**
 
 - 📫 How to reach me **vinciuscarmo95@gmail.com**
 
