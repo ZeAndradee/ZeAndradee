@@ -8,7 +8,7 @@
 
 - 👯 I’m looking to collaborate on **any Full Stack project**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/zeandradee?tab=repositories)
+- 👨‍💻 All of my projects are available at my [Github Repositories](https://github.com/zeandradee?tab=repositories)
 
 - 💬 Ask me about **React**
 
