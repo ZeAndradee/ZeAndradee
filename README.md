@@ -41,78 +41,7 @@
 <table align="left" height="500px" >
  <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=java" width="40px" alt="Java icon"/><br>
-      <sub>
-        <b>
-          <pre>Java</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=py" width="40px" alt="Python icon"/><br>
-      <sub>
-        <b>
-          <pre>Python</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=c" width="40px" alt="C icon"/><br>
-      <sub>
-        <b>
-          <pre>C</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=svelte" width="40px" alt="Svelte icon"/><br>
-      <sub>
-        <b>
-          <pre>Svelte</pre>
-        </b>
-      </sub>
-    </td>
-  </tr>
- <tr>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vite" width="40px" alt="Vite icon"/><br>
-      <sub>
-        <b>
-          <pre>Vite</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=wordpress" width="40px" alt="Wordpress icon"/><br>
-      <sub>
-        <b>
-          <pre>WordPress</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=mysql" width="40px" alt="Sql icon"/><br>
-      <sub>
-        <b>
-          <pre>MySql</pre>
-        </b>
-      </sub>
-    </td>
- <td align="center">
-      <img src="https://user-images.githubusercontent.com/74382074/221614842-e10ac993-a9c0-4bd8-ae20-1592f0b38760.png" width="40px" alt="Power BI icon"/><br>
-      <sub>
-        <b>
-          <pre>Power BI</pre>
-        </b>
-      </sub>
-    </td>
-  
-        
-
-  </tr>
-  <tr>
-  <td align="center">
-      <img src="https://skillicons.dev/icons?i=react" width="40px" alt="React icon"/><br>
+      <img src="https://skillicons.dev/icons?i=react" width="40px" alt="react icon"/><br>
       <sub>
         <b>
           <pre>React</pre>
@@ -123,28 +52,122 @@
       <img src="https://skillicons.dev/icons?i=nodejs" width="40px" alt="nodejs icon"/><br>
       <sub>
         <b>
-          <pre>Nodejs</pre>
+          <pre>Node</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <a href="https://github.com/JohKemPo"><img src="https://skillicons.dev/icons?i=github" width="40px" alt="github icon"/></a><br>
+      <img src="https://skillicons.dev/icons?i=mysql" width="40px" alt="mysql icon"/><br>
       <sub>
         <b>
-          <pre>Github</pre>
+          <pre>MySQL</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=postgres" width="40px" alt="postgres icon"/><br>
+      <sub>
+        <b>
+          <pre>PostgreSQL</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+ <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=androidstudio" width="40px" alt="androidstudio icon"/><br>
+      <sub>
+        <b>
+          <pre>Android</pre>
         </b>
       </sub>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=angular" width="40px" alt="angular icon"/><br>
+      <img src="https://skillicons.dev/icons?i=kotlin" width="40px" alt="kotlin icon"/><br>
       <sub>
         <b>
-          <pre>Angular</pre>
+          <pre>Kotlin</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=flutter" width="40px" alt="flutter icon"/><br>
+      <sub>
+        <b>
+          <pre>Flutter</pre>
+        </b>
+      </sub>
+    </td>
+ <td align="center">
+      <img src="https://skillicons.dev/icons?i=dart" width="40px" alt="dart icon"/><br>
+      <sub>
+        <b>
+          <pre>Dart</pre>
         </b>
       </sub>
     </td>
   </tr>
   <tr>
+  <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="40px" alt="JavaScript icon"/><br>
+      <sub>
+        <b>
+          <pre>JavaScript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="40px" alt="HTML icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JohKemPo"><img src="https://skillicons.dev/icons?i=css" width="40px" alt="CSS icon"/></a><br>
+      <sub>
+        <b>
+          <pre>CSS</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=svelte" width="40px" alt="Svelte icon"/><br>
+      <sub>
+        <b>
+          <pre>Svelte</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+
+    
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40px" alt="Java icon"/><br>
+      <sub>
+        <b>
+          <pre>Java</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=python" width="40px" alt="Python icon"/><br>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="40px" alt="C icon"/><br>
+      <sub>
+        <b>
+          <pre>C</pre>
+        </b>
+      </sub>
+    </td>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="bash icon"/><br>
       <sub>
@@ -153,36 +176,7 @@
         </b>
       </sub>
     </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=javascript" width="40px" alt="Javascript icon"/><br>
-      <sub>
-        <b>
-          <pre>Javascript</pre>
-        </b>
-      </sub>
-    </td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=css" width="40px" alt="CSS3 icon"/><br>
-      <sub>
-        <b>
-          <pre>&ensp;CSS3&ensp;</pre>
-        </b>
-      </sub>
-    </td>
-   <td align="center">
-      <img src="https://skillicons.dev/icons?i=html" width="40px" alt="HTML5 icon"/><br>
-      <sub>
-        <b>
-          <pre>HTML5</pre>
-        </b>
-      </sub>
-    </td>
   </tr>
- 
-
- 
-
-  
 </table>
 
 
