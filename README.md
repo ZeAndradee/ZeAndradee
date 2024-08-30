@@ -15,7 +15,7 @@
 - 📫 How to reach me **vinciuscarmo95@gmail.com**
 
 
-<h1 align="center"><i>&emsp;A C T I V I T Y&emsp;</i></h1>
+<h1 align="center"><i>&emsp;𝗔 𝗖 𝗧 𝗜 𝗩 𝗜 𝗧 𝗬 &emsp;</i></h1>
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeAndradee&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -33,7 +33,7 @@
     </a>
   
 
-<h2 align="center"><i>H A R D&emsp;S K I L L S &emsp;|&emsp;  P R O J E C T S</i></h2>
+<h2 align="center"><i>𝗛 𝗔 𝗥 𝗗&emsp;𝗦 𝗞 𝗜 𝗟 𝗟 𝗦&emsp; & &emsp;𝗣 𝗥 𝗢 𝗝 𝗘 𝗖 𝗧 𝗦</i></h2>   
 
 <br>
 <br>
@@ -172,7 +172,7 @@
       <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="bash icon"/><br>
       <sub>
         <b>
-          <pre>Terminal</pre>
+          <pre>Bash</pre>
         </b>
       </sub>
     </td>
@@ -193,7 +193,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ZeAndradee/TennisLy"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=TennisLy&&theme=tokyonight&hide_border=true&show_icons=true"></a>
+      <a href="https://github.com/ZeAndradee/TennisLy"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=TennisLy&&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0d1117"></a>
     </td>
   </tr>
   <tr>
@@ -203,7 +203,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ZeAndradee/CatFacts"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=CatFacts&&theme=tokyonight&hide_border=true&show_icons=true"></a>
+      <a href="https://github.com/ZeAndradee/CatFacts"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=CatFacts&&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0d1117"></a>
     </td>
   </tr>
   <tr>
@@ -213,7 +213,7 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ZeAndradee/Navit"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=Navit&&theme=tokyonight&hide_border=true&show_icons=true"></a>
+      <a href="https://github.com/ZeAndradee/Navit"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=Navit&&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0d1117"></a>
     </td>
   </tr>
   </tr>
