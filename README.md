@@ -187,33 +187,33 @@
 
   <tr>
     <td>
-      <a href="https://github.com/ZeAndradee/Statistical-Analysis---COVID-19-Vaccination-Data"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=Statistical-Analysis---COVID-19-Vaccination-Data&&theme=tokyonight&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/ZeAndradee/Statistical-Analysis---COVID-19-Vaccination-Data"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=Statistical-Analysis---COVID-19-Vaccination-Data&&theme=tokyonight&hide_border=true&show_icons=true"></a>
     </td>
   </tr>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ZeAndradee/TennisLy"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=TennisLy&&theme=tokyonight&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/ZeAndradee/TennisLy"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=TennisLy&&theme=tokyonight&hide_border=true&show_icons=true"></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ZeAndradee/TennisLy-api/"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=TennisLy-api&&theme=tokyonight&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/ZeAndradee/TennisLy-api/"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=TennisLy-api&&theme=tokyonight&hide_border=true&show_icons=true"></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ZeAndradee/CatFacts"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=CatFacts&&theme=tokyonight&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/ZeAndradee/CatFacts"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=CatFacts&&theme=tokyonight&hide_border=true&show_icons=true"></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ZeAndradee/DuolingoClone"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=DuolingoClone&&theme=tokyonight&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/ZeAndradee/DuolingoClone"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=DuolingoClone&&theme=tokyonight&hide_border=true&show_icons=true"></a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/ZeAndradee/Navit"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=Navit&&theme=tokyonight&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+      <a href="https://github.com/ZeAndradee/Navit"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=Navit&&theme=tokyonight&hide_border=true&show_icons=true"></a>
     </td>
   </tr>
   </tr>
