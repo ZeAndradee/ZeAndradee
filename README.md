@@ -8,41 +8,219 @@
 
 - 👯 I’m looking to collaborate on **any Full Stack project**
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/ZeAndradee)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/zeandradee?tab=repositories)
 
 - 💬 Ask me about **React**
 
 - 📫 How to reach me **vinciuscarmo95@gmail.com**
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-<img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://svelte.dev" target="_blank" rel="noreferrer"> 
-<img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> 
-<img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> 
- </p>
+
+<h1 align="center"><i>&emsp;A C T I V I T Y&emsp;</i></h1>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeAndradee&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
-<h1 align="center"><i>A C T I V I T Y</i></h1>
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeAndradee&theme=synthwave-84&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <p align="center" style="block"; border-color: 1px solid #fff>
     <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZeAndradee&theme=radical" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZeAndradee&theme=tokyonight" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeAndradee&theme=radical&layout=donut" />
+      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeAndradee&theme=tokyonight&layout=donut" />
     </a>
     <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeAndradee&theme=radical&&card_width=780" />
+      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeAndradee&theme=tokyonight&&card_width=774" />
     </a>
-</p>
+  
+
+<h2 align="center"><i>H A R D&emsp;S K I L L S &emsp;|&emsp;  P R O J E C T S</i></h2>
+
+<br>
+<br>
+
+<table align="left" height="500px" >
+ <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=java" width="40px" alt="Java icon"/><br>
+      <sub>
+        <b>
+          <pre>Java</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=py" width="40px" alt="Python icon"/><br>
+      <sub>
+        <b>
+          <pre>Python</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=c" width="40px" alt="C icon"/><br>
+      <sub>
+        <b>
+          <pre>C</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=svelte" width="40px" alt="Svelte icon"/><br>
+      <sub>
+        <b>
+          <pre>Svelte</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+ <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=vite" width="40px" alt="Vite icon"/><br>
+      <sub>
+        <b>
+          <pre>Vite</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=wordpress" width="40px" alt="Wordpress icon"/><br>
+      <sub>
+        <b>
+          <pre>WordPress</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=mysql" width="40px" alt="Sql icon"/><br>
+      <sub>
+        <b>
+          <pre>MySql</pre>
+        </b>
+      </sub>
+    </td>
+ <td align="center">
+      <img src="https://user-images.githubusercontent.com/74382074/221614842-e10ac993-a9c0-4bd8-ae20-1592f0b38760.png" width="40px" alt="Power BI icon"/><br>
+      <sub>
+        <b>
+          <pre>Power BI</pre>
+        </b>
+      </sub>
+    </td>
+  
+        
+
+  </tr>
+  <tr>
+  <td align="center">
+      <img src="https://skillicons.dev/icons?i=react" width="40px" alt="React icon"/><br>
+      <sub>
+        <b>
+          <pre>React</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="40px" alt="nodejs icon"/><br>
+      <sub>
+        <b>
+          <pre>Nodejs</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JohKemPo"><img src="https://skillicons.dev/icons?i=github" width="40px" alt="github icon"/></a><br>
+      <sub>
+        <b>
+          <pre>Github</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=angular" width="40px" alt="angular icon"/><br>
+      <sub>
+        <b>
+          <pre>Angular</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=bash" width="40px" alt="bash icon"/><br>
+      <sub>
+        <b>
+          <pre>Terminal</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=javascript" width="40px" alt="Javascript icon"/><br>
+      <sub>
+        <b>
+          <pre>Javascript</pre>
+        </b>
+      </sub>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=css" width="40px" alt="CSS3 icon"/><br>
+      <sub>
+        <b>
+          <pre>&ensp;CSS3&ensp;</pre>
+        </b>
+      </sub>
+    </td>
+   <td align="center">
+      <img src="https://skillicons.dev/icons?i=html" width="40px" alt="HTML5 icon"/><br>
+      <sub>
+        <b>
+          <pre>HTML5</pre>
+        </b>
+      </sub>
+    </td>
+  </tr>
+ 
+
+ 
+
+  
+</table>
+
+
+
+<!-- -------------------------------------------------------------->
+
+<table align="right" height="500px" width="160px">
+
+  <tr>
+    <td>
+      <a href="https://github.com/ZeAndradee/Statistical-Analysis---COVID-19-Vaccination-Data"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=Statistical-Analysis---COVID-19-Vaccination-Data&&theme=tokyonight&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+    </td>
+  </tr>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ZeAndradee/TennisLy"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=TennisLy&&theme=tokyonight&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ZeAndradee/TennisLy-api/"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=TennisLy-api&&theme=tokyonight&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ZeAndradee/CatFacts"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=CatFacts&&theme=tokyonight&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ZeAndradee/DuolingoClone"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=DuolingoClone&&theme=tokyonight&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/ZeAndradee/Navit"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=Navit&&theme=tokyonight&bg_color=0c1014&title_color=28a384&hide_border=true&icon_color=28a384&show_icons=true"></a>
+    </td>
+  </tr>
+  </tr>
+</table>
