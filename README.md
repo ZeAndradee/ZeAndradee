@@ -68,7 +68,7 @@
       <img src="https://skillicons.dev/icons?i=postgres" width="40px" alt="postgres icon"/><br>
       <sub>
         <b>
-          <pre>PostgreSQL</pre>
+          <pre>Postgres</pre>
         </b>
       </sub>
     </td>
@@ -112,7 +112,7 @@
       <img src="https://skillicons.dev/icons?i=javascript" width="40px" alt="JavaScript icon"/><br>
       <sub>
         <b>
-          <pre>JavaScript</pre>
+          <pre>JS</pre>
         </b>
       </sub>
     </td>
