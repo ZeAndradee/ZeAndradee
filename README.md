@@ -4,7 +4,7 @@
 [![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22512%26project%3D%26in%3D0)](https://codetime.dev)
 - 🔭 I’m currently working on [Full Stack Development](https://github.com/ZeAndradee/)
 
-- 🌱 I’m currently learning **Full Stack development with React.js, Node.js and MySQL | Kotlin | Java | C | Python**
+- 🌱 I’m currently learning **Full Stack development with React.js, Node.js and MySQL | Kotlin | Python**
 
 - 👯 I’m looking to collaborate on **any Full Stack project**
 
