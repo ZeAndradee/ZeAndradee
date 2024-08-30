@@ -2,15 +2,15 @@
 <h3 align="center">A passionate Mobile developer from Brazil</h3>
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22512%26project%3D%26in%3D0)](https://codetime.dev)
-- 🔭 I’m currently working on [Android Development](https://github.com/ZeAndradee/Login-Screen)
+- 🔭 I’m currently working on [Full Stack Development](https://github.com/ZeAndradee/)
 
-- 🌱 I’m currently learning **Kotlin, Front-End with React, C, Python**
+- 🌱 I’m currently learning **Full Stack development with React.js, Node.js and MySQL | Kotlin | Java | C | Python**
 
-- 👯 I’m looking to collaborate on **any mobile project**
+- 👯 I’m looking to collaborate on **any Full Stack project**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ZeAndradee](https://github.com/ZeAndradee)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/ZeAndradee)
 
-- 💬 Ask me about **Kotlin**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **vinciuscarmo95@gmail.com**
 
