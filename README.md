@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at my [Github Repositories](https://github.com/zeandradee?tab=repositories)
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **React & Node.js**
 
 - 📫 How to reach me **vinciuscarmo95@gmail.com**
 
