@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinicius</h1>
-<h3 align="center">A passionate Mobile developer from Brazil</h3>
+<h3 align="center">A passionate Full Stack developer from Brazil</h3>
 
 [![CodeTime badge](https://img.shields.io/endpoint?style=for-the-badge&url=https%3A%2F%2Fapi.codetime.dev%2Fshield%3Fid%3D22512%26project%3D%26in%3D0)](https://codetime.dev)
 - 🔭 I’m currently working on [Full Stack Development](https://github.com/ZeAndradee/)
@@ -19,26 +19,12 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ZeAndradee&theme=tokyo-night&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-
-<p align="center" style="block"; border-color: 1px solid #fff>
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ZeAndradee&theme=tokyonight" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeAndradee&theme=tokyonight&layout=donut" />
-    </a>
-    <a href="https://github.com/anuraghazra/convoychat">
-      <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ZeAndradee&theme=tokyonight&&card_width=774" />
-    </a>
-  
-
-<h2 align="center"><i>𝗛 𝗔 𝗥 𝗗&emsp;𝗦 𝗞 𝗜 𝗟 𝗟 𝗦&emsp; & &emsp;𝗣 𝗥 𝗢 𝗝 𝗘 𝗖 𝗧 𝗦</i></h2>   
+<h2 align="center"><i>𝗛 𝗔 𝗥 𝗗&emsp;𝗦 𝗞 𝗜 𝗟 𝗟 𝗦&emsp;</i></h2>   
 
 <br>
 <br>
 
-<table align="left" height="500px" >
+<table align="center" height="500px" >
  <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=react" width="40px" alt="react icon"/><br>
@@ -176,45 +162,5 @@
         </b>
       </sub>
     </td>
-  </tr>
-</table>
-
-
-
-<!-- -------------------------------------------------------------->
-
-<table align="right" height="500px" width="160px">
-
-  <tr>
-    <td>
-      <a href="https://github.com/ZeAndradee/Statistical-Analysis---COVID-19-Vaccination-Data"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=Statistical-Analysis---COVID-19-Vaccination-Data&&theme=tokyonight&hide_border=true&show_icons=true"></a>
-    </td>
-  </tr>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ZeAndradee/TennisLy"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=TennisLy&&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0d1117"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ZeAndradee/TennisLy-api/"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=TennisLy-api&&theme=tokyonight&hide_border=true&show_icons=true"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ZeAndradee/CatFacts"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=CatFacts&&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0d1117"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ZeAndradee/DuolingoClone"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=DuolingoClone&&theme=tokyonight&hide_border=true&show_icons=true"></a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/ZeAndradee/Navit"><img witdh="278" src="https://github-readme-stats.vercel.app/api/pin/?username=zeandradee&repo=Navit&&theme=tokyonight&hide_border=true&show_icons=true&bg_color=0d1117"></a>
-    </td>
-  </tr>
   </tr>
 </table>
